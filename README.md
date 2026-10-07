@@ -23,19 +23,19 @@ A Rock Paper Scissors game built with Python and Tkinter. It includes a graphica
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/bhavya-1407/rock-paper-scissors.git
+`git clone https://github.com/bhavya-1407/rock-paper-scissors.git`
 
 2. Open the project folder:
-cd rock-paper-scissors
+`cd rock-paper-scissors`
 
 3. Install the required packages:
-python -m pip install Pillow emoji
+`python -m pip install Pillow emoji`
 
 4. Run the game:
-python game.py
+`python game.py`
 
 ## Project Structure:
-rock-paper-scissors/
+`rock-paper-scissors/
 │
 ├── game.py
 ├── rps_1_same_size.png
@@ -43,7 +43,7 @@ rock-paper-scissors/
 ├── rps_2_same_size.png
 ├── rps_2_same_size(opp).png
 ├── rps_3_same_size.png
-└── rps_3_same_size(opp).png
+└── rps_3_same_size(opp).png`
 
 ## Future Improvements:
 Webcam-based hand gesture recognition
@@ -54,4 +54,4 @@ More interactive gameplay
 ## Author:
 Bhavya Reddy G
 
-GitHub: https://github.com/bhavya-1407
+GitHub: `https://github.com/bhavya-1407`
