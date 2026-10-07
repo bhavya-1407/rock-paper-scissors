@@ -4,6 +4,9 @@ from tkinter import *
 from PIL import Image, ImageTk
 from random import randint
 
+window = Tk()
+window.title("Rock Paper Scissors")
+window.configure(background="#F8C8DC")
 
 image_rock1 = ImageTk.PhotoImage(Image.open("rps_3_same_size(opp).png"))
 image_paper1 = ImageTk.PhotoImage(Image.open("rps_1_same_size(opp).png"))
