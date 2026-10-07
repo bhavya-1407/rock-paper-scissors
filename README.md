@@ -35,14 +35,22 @@ A Rock Paper Scissors game built with Python and Tkinter. It includes a graphica
 `python game.py`
 
 ## Project Structure:
+
 rock-paper-scissors/
 │
+
 ├── game.py
+
 ├── rps_1_same_size.png
+
 ├── rps_1_same_size(opp).png
+
 ├── rps_2_same_size.png
+
 ├── rps_2_same_size(opp).png
+
 ├── rps_3_same_size.png
+
 └── rps_3_same_size(opp).png
 
 ## Future Improvements:
