@@ -37,6 +37,7 @@ A Rock Paper Scissors game built with Python and Tkinter. It includes a graphica
 ## Project Structure:
 
 rock-paper-scissors/
+
 │
 
 ├── game.py
